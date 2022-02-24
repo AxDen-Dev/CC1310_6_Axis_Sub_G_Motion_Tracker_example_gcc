@@ -30,7 +30,7 @@ MCU | Description
 :-------------------------:|:-------------------------:
 CC1310 | Sub-G SoC
 
-센서 | Description
+Sensors | Description
 :-------------------------:|:-------------------------:
 LSM6DSL | 6 Axis Accelerometer, Gyroscope Sensor
 Si7201 | Hall Sensor
